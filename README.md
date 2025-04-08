@@ -1,2 +1,3 @@
 # Example1
-Repositorio de practica
+
+Esto es un ejemplo del uso de git
